@@ -1,5 +1,5 @@
 # Introduction-to-Algorithms
-An implementation of algrithms from the book.
+An implementation of algrithms from the book. The directory tree is laid out like the chapters in the book. To find a specific algorithm, reference the table of contents in the book.
 
 Citation: 
 @book{DBLP:books/daglib/0023376,
